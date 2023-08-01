@@ -2,7 +2,7 @@
 ## A passionate frontend developer from Egypt
 
   Seeking a challenging opportunity as a Developer in a well reputed firm, using latest technologies and skills so as to be qualified for a leading position, where I can further upgrade and develop my experience and knowledge in a mutually beneficial relationship.
-<img scr="https://drive.google.com/file/d/1z-BkdEpBbhwL4gkjHGVL8A9kRpBc1XqP/view?usp=sharing" alt="gif"/>
+<img scr="https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100044923152050&tbnid=qH_kaN7c7rN9eM&vet=12ahUKEwjUv6yRyruAAxUipycCHZb2CwMQMygBegUIARC8AQ..i&imgrefurl=https%3A%2F%2Fm.facebook.com%2FWalid.SalahEldin.Official%2F&docid=eSJ3XgS1-3LwuM&w=452&h=453&q=waleed%20salah&ved=2ahUKEwjUv6yRyruAAxUipycCHZb2CwMQMygBegUIARC8AQ" alt="gif"/>
 Skills: 
 * Html5 
 * CSS3 
