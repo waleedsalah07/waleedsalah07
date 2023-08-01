@@ -4,7 +4,8 @@
 
   Seeking a challenging opportunity as a Developer in a well reputed firm, using latest technologies and skills so as to be qualified for a leading position, where I can further upgrade and develop my experience and knowledge in a mutually beneficial relationship.
 
-Skills:  *Html5 
+Skills: 
+* Html5 
 * CSS3 
 * JS 
 * Bootstrap5
