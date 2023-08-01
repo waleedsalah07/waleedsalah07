@@ -2,9 +2,6 @@
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 <img  align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt ="gif" width="400px" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waleedsalah07&label=Profile%20views&color=0e75b6&style=flat" alt="waleedsalah07" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waleedsalah07" alt="waleedsalah07" /></a> </p>
-
 - 🌱 I’m currently learning **node js expressjs mongo db**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-nu-nine-25.vercel.app/](https://portfolio-nu-nine-25.vercel.app/)
@@ -14,6 +11,7 @@
 - 📫 How to reach me **waleedsalah1779@gmail.com**
 
 - ⚡ Fun fact **I am funny**
+- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waleedsalah07" alt="waleedsalah07" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
