@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **react js**
 
-- 📫 How to reach me **waleedsalah1779@gmail.com**
+- 📫 How to reach me about my CV **https://drive.google.com/file/d/1BmAaNYFrU0prcXbHI_a8P2deT0e6Ogpr/view**
 
 - ⚡ Fun fact **I am funny**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waleedsalah07" alt="waleedsalah07" /></a> </p>
