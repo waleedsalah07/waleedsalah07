@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm waleed salah</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-<img  align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt ="gif" width="600px" />
+<img  align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt ="gif" width="400px" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waleedsalah07&label=Profile%20views&color=0e75b6&style=flat" alt="waleedsalah07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waleedsalah07" alt="waleedsalah07" /></a> </p>
