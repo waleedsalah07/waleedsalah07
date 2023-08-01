@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm waleed salah</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-<img  align="left" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt ="gif" width="400px" />
+<img  align="left" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt ="gif" width="300px" />
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=waleedsalah07&label=Profile%20views&color=0e75b6&style=flat" alt="waleedsalah07" /> </p>
 - 🌱 I’m currently learning **node js expressjs mongo db**
 
