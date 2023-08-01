@@ -1,6 +1,6 @@
 # Hi there 👋, my name is waleed salah 
 ## A passionate frontend developer from Egypt
-<img scr="https://dribbble.com/shots/5487982-Developers-Gif/attachments/10896348?mode=media" alt="gif"/>
+<img scr="https://dribbble.com/shots/5487982-Developers-Gif/attachments/10896348?mode=media](https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif" alt="gif"/>
   Seeking a challenging opportunity as a Developer in a well reputed firm, using latest technologies and skills so as to be qualified for a leading position, where I can further upgrade and develop my experience and knowledge in a mutually beneficial relationship.
 
 Skills: 
