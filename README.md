@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I am funny**
 
- <img  align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt ="gif" width="1000px" />
+ <img  align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt ="gif" width="700px" />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=waleedsalah07&show_icons=true&locale=en&layout=compact" alt="waleedsalah07" /></p>
 
