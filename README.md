@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm waleed salah</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-<img  align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt ="gif" width="1000px" />
 
 - 🌱 I’m currently learning **node js expressjs mongo db**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-nu-nine-25.vercel.app/](https://portfolio-nu-nine-25.vercel.app/)
 
 - 💬 Ask me about **react js**
+- <img  align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt ="gif" width="1000px" />
 
 - 📫 How to reach me about my CV **https://drive.google.com/file/d/1B-tZvulus8y2HQm_kBukBJ1ZYwXiHVfM/view?usp=sharing**
 
